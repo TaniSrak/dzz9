@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\C#\\dz9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19F4E25-9A19-4B60-B57F-A6F3CF5A0B27}|dz9.csproj|c:\\users\\admin\\desktop\\c#\\dz9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19F4E25-9A19-4B60-B57F-A6F3CF5A0B27}|dz9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F66E4E-86C0-4B8A-96D2-98AB49661CD2}|Task2\\Task2.csproj|c:\\users\\admin\\desktop\\c#\\dz9\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F66E4E-86C0-4B8A-96D2-98AB49661CD2}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\dz9\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\dz9\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:49:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\C#\\dz9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\C#\\dz9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:37:10.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

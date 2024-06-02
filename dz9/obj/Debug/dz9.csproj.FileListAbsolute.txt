@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C#\dz9\bin\Debug\dz9.exe.config
+C:\Users\Admin\Desktop\C#\dz9\bin\Debug\dz9.exe
+C:\Users\Admin\Desktop\C#\dz9\bin\Debug\dz9.pdb
+C:\Users\Admin\Desktop\C#\dz9\obj\Debug\dz9.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\dz9\obj\Debug\dz9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\dz9\obj\Debug\dz9.exe
+C:\Users\Admin\Desktop\C#\dz9\obj\Debug\dz9.pdb
